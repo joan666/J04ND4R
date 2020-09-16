@@ -1,6 +1,6 @@
 #!usr
-# -*- coding: UTF-8 -*-
-# Mod by: MR.K7C8NG
+# -*- coding: Joan Corona -*-
+# Mod by: Starligth Zing
 # team: life of programmer
 
 
