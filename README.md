@@ -1,7 +1,7 @@
 #!usr
 # -*- coding: Joan Corona -*-
 # Mod by: Starligth Zing
-# team: life of programmer
+# team: NS
 
 
 import os
